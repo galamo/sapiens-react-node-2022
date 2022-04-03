@@ -1,0 +1,15 @@
+{
+  "name": "dev-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all": "concurrently -k -p \"[{name}]\" -n \"TypescriptCompiler,serverApp,clientApp\" -c \"blue,red,yellow\"  \"cd ../apps/api; npm run build-watch\" \"cd ../apps/api; npm run dev\" \"cd ../apps/cars-client; npm start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.1.0"
+  }
+}

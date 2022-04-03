@@ -213,7 +213,7 @@ router.get('/', function (req, res) {
 #### install globals
 `npm install -g create-react-app`
 #### creating react applicaiton
-`npx create-react-app <APP_NAME> --template typescript`
+`npx create-react-app cars-client --template typescript`
 
 
 ### Creating a simple function component
