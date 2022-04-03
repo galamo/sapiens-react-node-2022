@@ -1,9 +1,10 @@
 # React And Node
 ## git 
-- clone the repo
-- git clone https://github.com/galamo/sapiens-react-node-2022
+### clone the repo
+- `git clone https://github.com/galamo/sapiens-react-node-2022`
 
 # Node
+- [download & install nodejs](https://nodejs.org/en/download/)
 ### Run Javascript in your local machine
 1. open CMD - command line
 2. type `node -v`
@@ -17,11 +18,10 @@
 
 
 # apps
-
 # dev-apps
 # docs
 # examples
-## Server - Node.js
+## Backend Api - Node.js
 
 #### package.json
 ##### install globals
