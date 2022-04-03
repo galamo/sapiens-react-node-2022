@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chevrolet chevelle malibu",
+        "Name": "chevrolet RS",
         "Miles_per_Gallon": 18,
         "Cylinders": 8,
         "Displacement": 307,
@@ -11,7 +11,7 @@
         "Origin": "USA"
     },
     {
-        "Name": "buick skylark 320",
+        "Name": "BMW",
         "Miles_per_Gallon": 15,
         "Cylinders": 8,
         "Displacement": 350,
@@ -22,7 +22,7 @@
         "Origin": "USA"
     },
     {
-        "Name": "plymouth satellite",
+        "Name": "MRCDS",
         "Miles_per_Gallon": 18,
         "Cylinders": 8,
         "Displacement": 318,
@@ -33,7 +33,7 @@
         "Origin": "USA"
     },
     {
-        "Name": "amc rebel sst",
+        "Name": "SKODA",
         "Miles_per_Gallon": 16,
         "Cylinders": 8,
         "Displacement": 304,
