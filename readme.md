@@ -1,6 +1,5 @@
 # React And Node
-## git 
-### clone the repo
+### Clone Git repo
 - `git clone https://github.com/galamo/sapiens-react-node-2022`
 
 # Node
