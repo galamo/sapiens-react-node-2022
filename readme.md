@@ -250,8 +250,10 @@ function Car(props){
 
 ### MongoDb - Database 
 
-1. cd mongo folder
-2. docker-compose up
+- Running mongoDB on docker
+- [download & install](https://docs.docker.com/desktop/windows/install/) docker on your local machine 
+1. `cd mongo folder`
+2. `docker-compose up`
 
 
 #### Resources & Data
